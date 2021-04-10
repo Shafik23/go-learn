@@ -1,1 +1,10 @@
+# ignore all
+*
+
+# unignore files with extensions
+!*.*
+
+# unignore folders
+!*/
+
 tags
